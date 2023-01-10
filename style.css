@@ -1,0 +1,151 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+.top-banner{
+    background-image: url(./Pic/header-bg.png);
+    background-position: right;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 600px;
+    background-size: cover;
+    padding-bottom: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 50px;
+    
+    
+}
+
+.first-div{
+    padding-top: 150px;
+}
+.half-width{
+    width: 40%;
+    height: 600px;
+    float: left;
+    margin-left: 3%;
+    padding-left: 2%;
+}
+img{
+    width: 100%;
+}
+h2{
+    font-size: 40px;
+}
+h1{
+    font-size: 60px;
+    color: #ec4e8d;
+}
+p{
+    color: dimgray;
+    font-size: 12px;
+}
+.btn{
+    text-decoration: none;
+    color: white;
+    background-color: #ec4e8d;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+
+.biography{
+    background-image: url(./Pic/biography-bg.png);
+    background-size: cover;
+    height: 900px;
+    padding-left: 100px;
+    padding-bottom: 100px;
+    padding-top: 200px;
+}
+img-bio{
+    width: 200px;
+    height: 200px;
+
+}
+.bio-h2{
+    font-size: 40px;
+    margin-top: 150px;
+    padding-bottom: 30px;
+
+}
+
+.latest{
+    height: 600px;
+    width: 100%;
+    float: left;
+    padding-top: 100px;
+    text-align: center;
+    background-image: url(./Pic/latest-work-bg.png);
+    background-size: cover;
+    background-position: center;
+    
+    
+}
+.latest-div{
+    display: flex;
+    justify-content: center;
+    
+}
+.latest-pic{
+    width: 400px;
+    height: auto;
+    display: flex;
+    margin-left: 20px;    
+}
+
+.latest-h2{
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.footer{
+    width: 100%;
+    height: 1197px;
+    background-image: url(./Pic/footer-bg.png);
+    background-position: center;
+    background-size: cover;
+
+}
+.footer h2{
+    text-align: center;
+    padding-bottom: 50px;
+}
+.footer h5{
+    text-align: center;
+}
+.footer .p{
+    text-align: center;
+    color: dimgray;
+}
+#p{
+    text-align: center;
+    padding-top: 30px;
+    color: black;
+}
+
+.btnn{
+    text-align: center;
+}
+.footer-btn{
+    text-decoration: none;
+    color: white;
+    background-color: #ec4e8d;
+    padding: 20px 40px;
+    border-radius: 10px;
+    border: none;
+}
+span{
+    font-size: 10px;
+}
+.aa{
+    font-size: 30px;
+}
+footer{
+    color: dimgray;
+    text-align: center;
+    font-weight: 300;
+    font-size: 12px;
+}
